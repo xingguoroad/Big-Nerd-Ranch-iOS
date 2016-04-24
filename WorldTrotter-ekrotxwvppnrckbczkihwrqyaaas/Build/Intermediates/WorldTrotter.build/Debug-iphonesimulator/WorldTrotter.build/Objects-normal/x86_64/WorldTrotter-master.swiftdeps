@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "d0016c068cb9296593c721006b9242ed"
+build_time: [514448132, 592858000]
+inputs:
+  "/Users/GelinZHU/Desktop/Chapter2/WorldTrotter/WorldTrotter/ViewController.swift": [514448131, 0]
+  "/Users/GelinZHU/Desktop/Chapter2/WorldTrotter/WorldTrotter/AppDelegate.swift": [514362788, 0]
